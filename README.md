@@ -6,7 +6,9 @@ A web-based Mahjong tiles application built with HTML.
 
 This project provides a digital implementation of Mahjong tiles, likely featuring an interactive web interface for displaying, organizing, or playing with traditional Chinese Mahjong tiles.
 
-> This project was built by taking help of Claude & Perplexity
+> This project was upgraded by taking help of Claude & Perplexity
+
+![ScreenRecording2025-08-06231506-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/42ca08ee-bb4a-41e7-9e6f-6ac7c013d69c)
 
 
 ## 🚀 Features
